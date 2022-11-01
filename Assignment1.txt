@@ -1,0 +1,37 @@
+pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ nano cmdlines.txt
+
+pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ echo "Hello world"
+Hello world
+
+pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ ls
+cmdlines.txt
+
+pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ cat cmdlines.txt
+cd
+pwd
+ls
+cp
+mv
+rm
+echo
+cat
+less
+grep
+mkdir
+touch chmod
+
+pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ touch cmd.txt
+
+pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ nano cmd.txt
+
+pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ cat cmd.txt
+Hello my name is Chetan Wanave.
+
+pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ touch chetan1.txt chetan2.txt chetan3.txt
+
+pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ ls
+chetan1.txt  chetan2.txt  chetan3.txt  cmdlines.txt  cmd.txt
+
+pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ cd
+
+pvg@pvg-HP-ProDesk-400-G4-SFF:~$ cd Desktop
