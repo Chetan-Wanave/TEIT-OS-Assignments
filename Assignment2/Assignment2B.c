@@ -1,3 +1,9 @@
+/*Implement the C program in which main program accepts an array. Main program uses the FORK
+system call to create a new process called a child process. Parent process sorts an array and passes the
+sorted array to child process through the command line arguments of EXECVE system call. The child
+process uses EXECVE system callto load new program which display array in reverse order.*/
+
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>

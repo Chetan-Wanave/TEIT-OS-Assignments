@@ -1,3 +1,8 @@
+/*Implement the C program in which main program accepts the integers to be sorted. Main program
+usesthe FORK system call to create a new process called a child process. Parent process sortsthe integers
+using sorting algorithm and waits for child process using WAIT system call to sort the integers using any
+sorting algorithm. Also demonstrate zombie and orphan states*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>

@@ -1,3 +1,6 @@
+Study of Basic Linux Commands: echo, ls, read, cat, touch, test, loops, arithmetic comparison,
+conditional loops, grep,sed etc.
+
 pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ nano cmdlines.txt
 
 pvg@pvg-HP-ProDesk-400-G4-SFF:~/Desktop/50_Chetan$ echo "Hello world"
